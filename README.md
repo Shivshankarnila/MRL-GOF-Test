@@ -1,3 +1,2 @@
 This repository contains the two real-world datasets used in the paper entitled **“Goodness-of-fit testing for the Pareto type-I distribution based on a mean residual life characterization.”**
-
 The datasets include Danish fire insurance claims data and Delhi air pollution data (PM2.5), which are used to illustrate the application of the proposed goodness-of-fit test for the Pareto type-I distribution.
